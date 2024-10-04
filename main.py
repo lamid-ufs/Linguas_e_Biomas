@@ -54,6 +54,7 @@ with tab1:
     
     autor()
 
+
 with tab2:
     st.title("Tutorial")
     st.markdown(
