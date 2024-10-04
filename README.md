@@ -1,2 +1,2 @@
-# Linguas_e_Biomas
+# Gerador de QR Codes para o Línguas e Biomas
  
